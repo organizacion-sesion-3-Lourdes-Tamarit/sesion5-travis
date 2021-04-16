@@ -2,7 +2,7 @@
 
 Ejemplo de proyecto PHP con test unitarios para utilizar con Travis CI
 
-## Instalación
+## Instalación PRUEBA
 
 ``` bash
 # Instalar dependencias
